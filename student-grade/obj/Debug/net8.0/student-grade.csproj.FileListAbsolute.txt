@@ -1,0 +1,15 @@
+C:\Users\54931473865\Desktop\selective_process_exercises\student-grade\bin\Debug\net8.0\student-grade.exe
+C:\Users\54931473865\Desktop\selective_process_exercises\student-grade\bin\Debug\net8.0\student-grade.deps.json
+C:\Users\54931473865\Desktop\selective_process_exercises\student-grade\bin\Debug\net8.0\student-grade.runtimeconfig.json
+C:\Users\54931473865\Desktop\selective_process_exercises\student-grade\bin\Debug\net8.0\student-grade.dll
+C:\Users\54931473865\Desktop\selective_process_exercises\student-grade\bin\Debug\net8.0\student-grade.pdb
+C:\Users\54931473865\Desktop\selective_process_exercises\student-grade\obj\Debug\net8.0\student-grade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54931473865\Desktop\selective_process_exercises\student-grade\obj\Debug\net8.0\student-grade.AssemblyInfoInputs.cache
+C:\Users\54931473865\Desktop\selective_process_exercises\student-grade\obj\Debug\net8.0\student-grade.AssemblyInfo.cs
+C:\Users\54931473865\Desktop\selective_process_exercises\student-grade\obj\Debug\net8.0\student-grade.csproj.CoreCompileInputs.cache
+C:\Users\54931473865\Desktop\selective_process_exercises\student-grade\obj\Debug\net8.0\student-grade.sourcelink.json
+C:\Users\54931473865\Desktop\selective_process_exercises\student-grade\obj\Debug\net8.0\student-grade.dll
+C:\Users\54931473865\Desktop\selective_process_exercises\student-grade\obj\Debug\net8.0\refint\student-grade.dll
+C:\Users\54931473865\Desktop\selective_process_exercises\student-grade\obj\Debug\net8.0\student-grade.pdb
+C:\Users\54931473865\Desktop\selective_process_exercises\student-grade\obj\Debug\net8.0\student-grade.genruntimeconfig.cache
+C:\Users\54931473865\Desktop\selective_process_exercises\student-grade\obj\Debug\net8.0\ref\student-grade.dll

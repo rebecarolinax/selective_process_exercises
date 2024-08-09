@@ -1,0 +1,15 @@
+C:\Users\54931473865\Desktop\selective_process_exercises\add-numbers\bin\Debug\net8.0\add-numbers.exe
+C:\Users\54931473865\Desktop\selective_process_exercises\add-numbers\bin\Debug\net8.0\add-numbers.deps.json
+C:\Users\54931473865\Desktop\selective_process_exercises\add-numbers\bin\Debug\net8.0\add-numbers.runtimeconfig.json
+C:\Users\54931473865\Desktop\selective_process_exercises\add-numbers\bin\Debug\net8.0\add-numbers.dll
+C:\Users\54931473865\Desktop\selective_process_exercises\add-numbers\bin\Debug\net8.0\add-numbers.pdb
+C:\Users\54931473865\Desktop\selective_process_exercises\add-numbers\obj\Debug\net8.0\add-numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54931473865\Desktop\selective_process_exercises\add-numbers\obj\Debug\net8.0\add-numbers.AssemblyInfoInputs.cache
+C:\Users\54931473865\Desktop\selective_process_exercises\add-numbers\obj\Debug\net8.0\add-numbers.AssemblyInfo.cs
+C:\Users\54931473865\Desktop\selective_process_exercises\add-numbers\obj\Debug\net8.0\add-numbers.csproj.CoreCompileInputs.cache
+C:\Users\54931473865\Desktop\selective_process_exercises\add-numbers\obj\Debug\net8.0\add-numbers.sourcelink.json
+C:\Users\54931473865\Desktop\selective_process_exercises\add-numbers\obj\Debug\net8.0\add-numbers.dll
+C:\Users\54931473865\Desktop\selective_process_exercises\add-numbers\obj\Debug\net8.0\refint\add-numbers.dll
+C:\Users\54931473865\Desktop\selective_process_exercises\add-numbers\obj\Debug\net8.0\add-numbers.pdb
+C:\Users\54931473865\Desktop\selective_process_exercises\add-numbers\obj\Debug\net8.0\add-numbers.genruntimeconfig.cache
+C:\Users\54931473865\Desktop\selective_process_exercises\add-numbers\obj\Debug\net8.0\ref\add-numbers.dll

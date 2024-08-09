@@ -1,0 +1,15 @@
+C:\Users\54931473865\Desktop\selective_process_exercises\random-number\bin\Debug\net8.0\random-number.exe
+C:\Users\54931473865\Desktop\selective_process_exercises\random-number\bin\Debug\net8.0\random-number.deps.json
+C:\Users\54931473865\Desktop\selective_process_exercises\random-number\bin\Debug\net8.0\random-number.runtimeconfig.json
+C:\Users\54931473865\Desktop\selective_process_exercises\random-number\bin\Debug\net8.0\random-number.dll
+C:\Users\54931473865\Desktop\selective_process_exercises\random-number\bin\Debug\net8.0\random-number.pdb
+C:\Users\54931473865\Desktop\selective_process_exercises\random-number\obj\Debug\net8.0\random-number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54931473865\Desktop\selective_process_exercises\random-number\obj\Debug\net8.0\random-number.AssemblyInfoInputs.cache
+C:\Users\54931473865\Desktop\selective_process_exercises\random-number\obj\Debug\net8.0\random-number.AssemblyInfo.cs
+C:\Users\54931473865\Desktop\selective_process_exercises\random-number\obj\Debug\net8.0\random-number.csproj.CoreCompileInputs.cache
+C:\Users\54931473865\Desktop\selective_process_exercises\random-number\obj\Debug\net8.0\random-number.sourcelink.json
+C:\Users\54931473865\Desktop\selective_process_exercises\random-number\obj\Debug\net8.0\random-number.dll
+C:\Users\54931473865\Desktop\selective_process_exercises\random-number\obj\Debug\net8.0\refint\random-number.dll
+C:\Users\54931473865\Desktop\selective_process_exercises\random-number\obj\Debug\net8.0\random-number.pdb
+C:\Users\54931473865\Desktop\selective_process_exercises\random-number\obj\Debug\net8.0\random-number.genruntimeconfig.cache
+C:\Users\54931473865\Desktop\selective_process_exercises\random-number\obj\Debug\net8.0\ref\random-number.dll

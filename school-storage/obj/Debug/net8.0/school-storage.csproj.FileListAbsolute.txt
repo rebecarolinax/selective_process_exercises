@@ -1,0 +1,15 @@
+C:\Users\54931473865\Desktop\selective_process_exercises\school-storage\bin\Debug\net8.0\school-storage.exe
+C:\Users\54931473865\Desktop\selective_process_exercises\school-storage\bin\Debug\net8.0\school-storage.deps.json
+C:\Users\54931473865\Desktop\selective_process_exercises\school-storage\bin\Debug\net8.0\school-storage.runtimeconfig.json
+C:\Users\54931473865\Desktop\selective_process_exercises\school-storage\bin\Debug\net8.0\school-storage.dll
+C:\Users\54931473865\Desktop\selective_process_exercises\school-storage\bin\Debug\net8.0\school-storage.pdb
+C:\Users\54931473865\Desktop\selective_process_exercises\school-storage\obj\Debug\net8.0\school-storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54931473865\Desktop\selective_process_exercises\school-storage\obj\Debug\net8.0\school-storage.AssemblyInfoInputs.cache
+C:\Users\54931473865\Desktop\selective_process_exercises\school-storage\obj\Debug\net8.0\school-storage.AssemblyInfo.cs
+C:\Users\54931473865\Desktop\selective_process_exercises\school-storage\obj\Debug\net8.0\school-storage.csproj.CoreCompileInputs.cache
+C:\Users\54931473865\Desktop\selective_process_exercises\school-storage\obj\Debug\net8.0\school-storage.sourcelink.json
+C:\Users\54931473865\Desktop\selective_process_exercises\school-storage\obj\Debug\net8.0\school-storage.dll
+C:\Users\54931473865\Desktop\selective_process_exercises\school-storage\obj\Debug\net8.0\refint\school-storage.dll
+C:\Users\54931473865\Desktop\selective_process_exercises\school-storage\obj\Debug\net8.0\school-storage.pdb
+C:\Users\54931473865\Desktop\selective_process_exercises\school-storage\obj\Debug\net8.0\school-storage.genruntimeconfig.cache
+C:\Users\54931473865\Desktop\selective_process_exercises\school-storage\obj\Debug\net8.0\ref\school-storage.dll
